@@ -8,5 +8,5 @@ To run:
 ```shell
 git clone https://github.com/CrossChx/Lunch-Hackers.git
 cd Lunch-Hackers/hackerrank_keyword-transposition-cipher/paulhendricks
-python3 cypher.py
+python3 cipher.py
 ```
