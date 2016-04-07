@@ -6,8 +6,8 @@ Hackerrank - Paul Hendricks
 To run:
 
 ```shell
-git clone https://github.com/paulhendricks/hackerrank.git
-cd kitty-and-katty
+git clone https://github.com/CrossChx/Lunch-Hackers.git
+cd Lunch-Hackers/hackerrank_kitty-and-katty/paulhendricks
 python3 kitty-and-katty.py
 ```
 
