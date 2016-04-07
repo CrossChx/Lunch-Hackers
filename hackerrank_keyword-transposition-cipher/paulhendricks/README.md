@@ -11,4 +11,4 @@ cd Lunch-Hackers/hackerrank_keyword-transposition-cipher/paulhendricks
 python3 keyword-transposition-cipher.py
 ```
 
-For challenge details, please: https://www.hackerrank.com/challenges/keyword-transposition-cipher
+For challenge details, please see: https://www.hackerrank.com/challenges/keyword-transposition-cipher
