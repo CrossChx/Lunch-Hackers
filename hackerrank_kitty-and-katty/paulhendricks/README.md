@@ -11,4 +11,4 @@ cd kitty-and-katty
 python3 kitty-and-katty.py
 ```
 
-For challenge details see, please: https://www.hackerrank.com/challenges/kitty-and-katty
+For challenge details, please see: https://www.hackerrank.com/challenges/kitty-and-katty
